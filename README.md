@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/latemanarts" target="blank"><img src="https://img.shields.io/twitter/follow/latemanarts?logo=twitter&style=for-the-badge" alt="latemanarts" /></a> </p>
 
-🫠I’m currently working on **Project Color, a 2.5D beat-em-up**
+🫠I’m currently working on **Project Color, a first-person beat-em-up**
 
 ✏️I’m currently learning **Art and Animation**
 
