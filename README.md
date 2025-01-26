@@ -10,7 +10,7 @@
 
 ✏️I’m currently learning **Art, Animation and Programming**
 
-📝 I post my art pieces on Twitter/X and Bluesky: []([(https://x.com/latemannart)])
+📝 I post my art pieces on Twitter/X and Bluesky
 
 📫 You can reach me at **late.tormakangas@gmail.com**
 
