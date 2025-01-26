@@ -4,7 +4,7 @@
 <h1 align="center"> ABOUT ME </h1>
 <h2> Hi! I'm Lauri, a student on the IT-line of Jyväskylä Lyseon lukio. I love art and programming, and wish to someday be a proffesional in the videogame art industry.</h2>
 
-<p align="left"> <a href="https://twitter.com/latemanarts" target="blank"><img src="https://img.shields.io/twitter/follow/latemanarts?logo=twitter&style=for-the-badge" alt="latemannart" /></a> </p>
+<p align="left"> <a href="https://twitter.com/latemannart" target="blank"><img src="https://img.shields.io/twitter/follow/latemannart?logo=twitter&style=for-the-badge" alt="latemannart" /></a> </p>
 
 🫠I’m currently working on **Project Color, a first-person beat-em-up**
 
