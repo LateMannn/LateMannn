@@ -2,7 +2,7 @@
 <h3 align="center">A passionate IT-student hailing from Jyväskylä, Finland</h3>
 
 <h1 align="center"> ABOUT ME </h1>
-<h2> Hi! I'm Lauri, a student at Gradia Sepänkatu. I am an avid enjoyer of programming and wish to someday be a proffesional in the videogame art industry. My profile is still work in progress, so some links may not work. Sorry!</h2>
+<h2> Hi! I'm Lauri, a student on the IT-line of Jyväskylä Lyseon lukio. I love art and programming, and wish to someday be a proffesional in the videogame art industry.</h2>
 
 <p align="left"> <a href="https://twitter.com/latemanarts" target="blank"><img src="https://img.shields.io/twitter/follow/latemanarts?logo=twitter&style=for-the-badge" alt="latemanarts" /></a> </p>
 
