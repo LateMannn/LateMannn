@@ -8,19 +8,15 @@
 
 🫠I’m currently working on **Project Color, a first-person beat-em-up**
 
-✏️I’m currently learning **Art and Animation**
+✏️I’m currently learning **Art, Animation and Programming**
 
-👨‍💻 A link to my portfolio: [portfoliolinkhere](portfoliolinkhere)
-
-📝 I post my art pieces on Twitter/X: [twitterlinkhere](twitterlinkhere)
+📝 I post my art pieces on Twitter/X and Bluesky: [X: ]([(https://x.com/latemannart)]) [Bluesky: ] ([https://bsky.app/profile/late-art.bsky.social])
 
 📫 You can reach me at **late.tormakangas@gmail.com**
 
-📄 A link to my resume: [resumelinkhere](resumelinkhere)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/latemanarts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="latemanarts" height="30" width="40" /></a>
+<a href="https://x.com/latemannart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="latemannart" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lauri törmäkangas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lauri törmäkangas" height="30" width="40" /></a>
 </p>
 
